@@ -1,0 +1,5 @@
+npm i -D nodemon
+npm run dev
+npm i express
+jwt
+mongo db
